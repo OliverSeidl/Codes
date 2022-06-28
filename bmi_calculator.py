@@ -11,4 +11,3 @@ bmi_convert = int(bmi)
 # ↓↓↓ PRINTING RESULTS ↓↓↓
 
 print(bmi_convert)
-from PIL import Image
